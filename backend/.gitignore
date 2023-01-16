@@ -1,0 +1,10 @@
+target/
+.classpath
+.project
+.settings/
+.vscode/
+h2db/*
+
+# h2db
+shippingdb.mv.db
+shippingdb.trace.db
