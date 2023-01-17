@@ -40,3 +40,5 @@ mvn spring-boot:run
 cd frontend
 npm start
 ~~~
+
+Access to http://localhost:3000 to open the application.
